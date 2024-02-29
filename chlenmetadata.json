@@ -1,14 +1,5 @@
 {
-    "name": "Chlen Coin",
-    "symbol": "CHLEN",
-    "uri": "https://raw.githubusercontent.com/chlencoin/chlencoin/main/chlenmetadata.json",
-    "seller_fee_basis_points": 1300,
-    "creators": [
-        {
-            "address": "GqaRA4tkEe5kA3cfSVfJPTh54dc2r88uJwcTFSuMfrjj",
-            "verified": true,
-            "share": 100
-        }
-    ],
-    "image": "https://raw.githubusercontent.com/chlencoin/chlencoin/main/logo.png"
+  "name": "Chlen Coin",
+  "symbol": "Chlen",
+  "uri": "https://raw.githubusercontent.com/chlencoin/chlencoin/main/chlenmetadata.json"
 }
