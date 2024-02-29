@@ -1,0 +1,13 @@
+{
+  "name": "Chlen Coin",
+  "symbol": "CHLEN",
+  "uri": "https://yourwebsite.com/token-metadata",
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "your_creator_wallet_address",
+      "verified": true,
+      "share": 100
+    }
+  ]
+}
